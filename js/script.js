@@ -4,6 +4,7 @@ new Vue({
         todos: [ 
             {
                 text: 'Fare la Spesa',
+                done: true
             },
             {
                 text: 'Fare i compiti',
